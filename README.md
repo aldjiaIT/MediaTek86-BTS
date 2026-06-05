@@ -1,4 +1,4 @@
-# MediaTek86-BTS
+MediaTek86-BTS
 
 ## Présentation du projet
 
