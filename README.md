@@ -2,28 +2,25 @@
 
 ## Présentation du projet
 
-Ce projet a été réalisé dans le cadre du BTS SIO option SLAM.
+Ce projet a été réalisé dans le cadre du BTS SIO option SLAM .
 
-L'application MediaTek86 permet la gestion du personnel et des absences d'une médiathèque à l'aide d'une application Windows codée en C# reliée à une base de données MySQL.
+L'application MediaTek86 permet la gestion du personnel et des absences d'une médiathèque à l'aide d'une application Windows codée en C# reliée à une base de données MySQL .
 
-Le projet a été développé avec une architecture MVC simple.
+Le projet a été développé avec une architecture MVC simple .
 
----
 
 ## Technologies utilisées
 
-* C#
-* Windows Forms (.NET Framework)
+* C #
+* Windows Forms
 * MySQL
 * XAMPP
 * GitHub
 * Visual Studio 2026
 
----
-
 ## Base de données
 
-La base de données contient plusieurs tables :
+La base de données contient plusieurs tables 
 
 * personnel
 * absence
@@ -31,9 +28,7 @@ La base de données contient plusieurs tables :
 * motif
 * responsable
 
-La connexion à la base est réalisée avec MySQL.
-
----
+La conexion à la base est réalisée avec MySQL .
 
 ## Fonctionnalités
 
@@ -41,8 +36,6 @@ La connexion à la base est réalisée avec MySQL.
 * affichage du personnel
 * gestion des absences
 * ajout, modification et suppression
-
----
 
 ## Structure du projet
 
@@ -52,8 +45,7 @@ La connexion à la base est réalisée avec MySQL.
 * bddmanager
 * dal
 
----
 
 ## Auteur
 
-Projet réalisé par une étudiante de BTS SIO SLAM dans le cadre de l'atelier MediaTek86.
+Projet réalisé par une étudiante de BTS SIO SLAM dans le cadre de l'atelier MediaTek86 .
